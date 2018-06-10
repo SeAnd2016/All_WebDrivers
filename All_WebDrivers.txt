@@ -4,7 +4,7 @@ Edge (EdgeDriver): https://download.microsoft.com/download/F/8/A/F8AF50AB-3C3A-4
 
 Firefox (FirefoxDriver): https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-win64.zip
 
-Chrome (ChromeDriver): https://chromedriver.storage.googleapis.com/2.38/chromedriver_win32.zip
+Chrome (ChromeDriver): https://chromedriver.storage.googleapis.com/index.html
 
  
 
@@ -12,4 +12,4 @@ macOS:
 
 Firefox (FirefoxDriver): https://github.com/mozilla/geckodriver/releases/download/v0.20.1/geckodriver-v0.20.1-macos.tar.gz
 
-Chrome (ChromeDriver): https://chromedriver.storage.googleapis.com/2.38/chromedriver_mac64.zip
+Chrome (ChromeDriver): https://chromedriver.storage.googleapis.com/index.html
